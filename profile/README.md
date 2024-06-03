@@ -1,6 +1,6 @@
 # (A)-IDLE PERSONALETTER
 
-![logo](https://github.com/A-IDLE/.github/assets/145536264/1242faf6-47ee-4ec6-a4a3-3697a1713e40)
+<img src="https://github.com/A-IDLE/.github/assets/145536264/1242faf6-47ee-4ec6-a4a3-3697a1713e40" alt="logo" width="300">
 
 
 
