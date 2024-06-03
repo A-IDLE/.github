@@ -109,8 +109,9 @@ AIDLE
 - **ComfyUI**: Stable Diffusion 모델을 모듈식 GUI로 사용 가능
 - **Face Detailer**: 인물 묘사 퀄리티 개선
 - **RAG**: 신뢰할 수 있는 외부 데이터를 참조하여 LLM 응답 생성
-![아키텍처](https://github.com/A-IDLE/.github/assets/145536264/3571c4f1-192a-4084-b3ee-00a71268d09a)
-) <!-- 기술 세부 사항 이미지 링크는 실제로 존재하는 링크로 교체해주세요 -->
+
+(https://github.com/A-IDLE/.github/assets/145536264/3571c4f1-192a-4084-b3ee-00a71268d09a)
+
 
 
 ## 6. 기술 세부 사항
