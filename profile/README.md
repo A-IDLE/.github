@@ -56,15 +56,9 @@
 
 서비스 시연에서는 사용자가 영화 캐릭터인 헤르미온느와 주고받는 편지 예시를 통해 실제 사용 환경을 보여줍니다.
 
-
-
 ### 시연 영상
 
-
-
 https://github.com/A-IDLE/.github/assets/145536264/448dbf78-4509-4c12-b170-8d0f795fb250
-
-
 
 ### 보낸 편지
 - 안녕 헤르미온느,
@@ -82,6 +76,7 @@ https://github.com/A-IDLE/.github/assets/145536264/448dbf78-4509-4c12-b170-8d0f7
 너의 가장 친한 친구로부터,
 AIDLE
 
+## 받은 편지
 <div style="display: flex; align-items: flex-start;">
     <img src="https://github.com/A-IDLE/.github/assets/145536264/56c72223-9303-4fa0-97ea-fc6eb4afb0e2" alt="ComfyUI_00504_" style="width: 300px; margin-right: 20px;">
     <div>
@@ -94,8 +89,6 @@ AIDLE
         <p>너의 가장 친한 친구,<br>헤르미온느</p>
     </div>
 </div>
-
-
 
 ## 4. 추진 배경
 
