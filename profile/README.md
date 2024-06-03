@@ -18,6 +18,7 @@
 
 ## 1. 팀 소개
 
+
 | ![정한샘](https://example.com/jung.jpg) | ![유광중](https://example.com/yu.jpg) | ![연인지](https://example.com/yeon.jpg) | ![홍성혁](https://example.com/hong.jpg) | ![장재영](https://example.com/jang.jpg) |
 | --- | --- | --- | --- | --- |
 | **정한샘 (팀장)** | **유광중 (부팀장)** | **연인지** | **홍성혁** | **장재영** |
