@@ -122,22 +122,31 @@ AIDLE
 - **Upscale Image**와 **Face Detailer**를 통한 이미지 퀄리티 개선
 - **Lora 모델**을 통한 용량 효율화
 
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="https://github.com/A-IDLE/.github/assets/145536264/02b1772a-5d4e-4194-b53e-5c176bd9e123" alt="15" style="width: 48%; margin: 1%;">
+    <img src="https://github.com/A-IDLE/.github/assets/145536264/4d855af6-eacd-40ce-9d80-92d520b3e70b" alt="16" style="width: 48%; margin: 1%;">
+</div>
+
 ### 편지 프롬프트 엔지니어링
 - 과거 편지 내역 참조
 - 프롬프트 토큰 최적화
 - 문맥 이해 향상 및 토큰 비용 절감
 
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="https://github.com/A-IDLE/.github/assets/145536264/50f9af28-4afd-412b-b71b-be7e4bc529c0" alt="23" style="width: 48%; margin: 1%;">
+    <img src="https://github.com/A-IDLE/.github/assets/145536264/d84e2dc3-3788-4230-88e1-06cbc73086f4" alt="24" style="width: 48%; margin: 1%;">
+</div>
+
 ### RAG 테스트 결과
 - RAG를 활용한 경우 Chat History를 정확하게 기억
 - 20장의 편지에서 3,218 토큰 절약
 
-![15](https://github.com/A-IDLE/.github/assets/145536264/02b1772a-5d4e-4194-b53e-5c176bd9e123)
-![16](https://github.com/A-IDLE/.github/assets/145536264/4d855af6-eacd-40ce-9d80-92d520b3e70b)
-![23](https://github.com/A-IDLE/.github/assets/145536264/50f9af28-4afd-412b-b71b-be7e4bc529c0)
-![24](https://github.com/A-IDLE/.github/assets/145536264/d84e2dc3-3788-4230-88e1-06cbc73086f4)
-![26](https://github.com/A-IDLE/.github/assets/145536264/87ec62ba-c470-4f13-822e-125084cca43d)
-![27](https://github.com/A-IDLE/.github/assets/145536264/6b2036c6-63f8-45b8-91cd-e634a13af0b0)
-![28](https://github.com/A-IDLE/.github/assets/145536264/5fe9b98c-29b9-4686-b6ff-f5cb0fd27075)
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="https://github.com/A-IDLE/.github/assets/145536264/87ec62ba-c470-4f13-822e-125084cca43d" alt="26" style="width: 48%; margin: 1%;">
+    <img src="https://github.com/A-IDLE/.github/assets/145536264/6b2036c6-63f8-45b8-91cd-e634a13af0b0" alt="27" style="width: 48%; margin: 1%;">
+    <img src="https://github.com/A-IDLE/.github/assets/145536264/5fe9b98c-29b9-4686-b6ff-f5cb0fd27075" alt="28" style="width: 48%; margin: 1%;">
+</div>
+
 
 
 
