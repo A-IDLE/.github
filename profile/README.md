@@ -110,8 +110,8 @@ AIDLE
 - **Face Detailer**: 인물 묘사 퀄리티 개선
 - **RAG**: 신뢰할 수 있는 외부 데이터를 참조하여 LLM 응답 생성
 
-    <img src="![아키텍처](https://github.com/A-IDLE/.github/assets/145536264/0b60dc4e-c4d4-4049-90c9-b2771299f148)
-" alt="ComfyUI_00504_" style="width: 300px; margin-right: 20px;">
+   (![(A)-IDLE 최종 발표](https://github.com/A-IDLE/.github/assets/145536264/bcb9444a-3a46-40b4-bb30-0b4d1781322b)
+)
 
 
 
