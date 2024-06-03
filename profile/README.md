@@ -131,8 +131,17 @@ AIDLE
 - RAG를 활용한 경우 Chat History를 정확하게 기억
 - 20장의 편지에서 3,218 토큰 절약
 
-(![15](https://github.com/A-IDLE/.github/assets/145536264/02b1772a-5d4e-4194-b53e-5c176bd9e123)
-) 
+![15](https://github.com/A-IDLE/.github/assets/145536264/02b1772a-5d4e-4194-b53e-5c176bd9e123)
+![16](https://github.com/A-IDLE/.github/assets/145536264/4d855af6-eacd-40ce-9d80-92d520b3e70b)
+![23](https://github.com/A-IDLE/.github/assets/145536264/50f9af28-4afd-412b-b71b-be7e4bc529c0)
+![24](https://github.com/A-IDLE/.github/assets/145536264/d84e2dc3-3788-4230-88e1-06cbc73086f4)
+![26](https://github.com/A-IDLE/.github/assets/145536264/87ec62ba-c470-4f13-822e-125084cca43d)
+![27](https://github.com/A-IDLE/.github/assets/145536264/6b2036c6-63f8-45b8-91cd-e634a13af0b0)
+![28](https://github.com/A-IDLE/.github/assets/145536264/5fe9b98c-29b9-4686-b6ff-f5cb0fd27075)
+
+
+
+
 ## 7. 협업 및 개선점
 
 ### 협업 방식
