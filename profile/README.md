@@ -64,7 +64,11 @@
 
 ### 시연 영상
 
-![서비스 시연 영상](https://github.com/A-IDLE/.github/blob/main/profile/%EC%8B%9C%EC%97%B0.mp4) <!-- 시연 영상 링크는 실제로 존재하는 링크로 교체해주세요 -->
+![서비스 시연 영상](
+
+https://github.com/A-IDLE/.github/assets/145536264/448dbf78-4509-4c12-b170-8d0f795fb250
+
+) <!-- 시연 영상 링크는 실제로 존재하는 링크로 교체해주세요 -->
 
 ## 4. 추진 배경
 
