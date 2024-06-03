@@ -1,6 +1,8 @@
 # (A)-IDLE PERSONALETTER
 
-![Persona Letter Logo](./image.png)
+![logo](https://github.com/A-IDLE/.github/assets/145536264/1242faf6-47ee-4ec6-a4a3-3697a1713e40)
+
+
 
 ## "스크린 너머 편지로 연결된 이야기"
 
