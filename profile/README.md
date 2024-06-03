@@ -102,8 +102,7 @@ AIDLE
 ![추진 배경](https://example.com/background.jpg) <!-- 추진 배경 이미지 링크는 실제로 존재하는 링크로 교체해주세요 -->
 
 ## 5. 서비스 아키텍처
-![서비스 아키텍처](![(A)-IDLE 최종 발표](https://github.com/A-IDLE/.github/assets/145536264/81fce896-113b-40ab-b1dd-d85823cd78cc)
-) <!-- 추진 배경 이미지 링크는 실제로 존재하는 링크로 교체해주세요 -->
+(![(A)-IDLE 최종 발표](https://github.com/A-IDLE/.github/assets/145536264/81fce896-113b-40ab-b1dd-d85823cd78cc) 
 
 서비스 아키텍처는 AWS SQS, ComfyUI, Vector DB 등을 사용하여 구축되었습니다.
 
