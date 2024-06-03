@@ -1,11 +1,113 @@
-# Welcome to Our Organization
-![Organization Logo](https://link-to-your-logo.png)
-## About Us
-We are a community of developers focused on building amazing open-source projects. Our mission is to foster collaboration and innovation through shared knowledge and expertise.
-## Projects
-- [Project One](https://github.com/your-org/project-one): A brief description of Project One.
-- [Project Two](https://github.com/your-org/project-two): A brief description of Project Two.
-## Contributing
-We welcome contributions from everyone. Please read our [contribution guidelines](https://github.com/your-org/.github/blob/main/CONTRIBUTING.md) to get started.
-## Contact
-Feel free to reach out to us on [Twitter](https://twitter.com/your-org) or [join our Slack](https://join.slack.com/your-org).
+# (A)-IDLE 프로젝트 최종 발표
+
+## 프로젝트 개요
+
+**(A)-IDLE** 프로젝트는 사용자가 자신이 좋아하는 영화나 드라마 속 주인공들과 직접 편지를 주고받는 경험을 제공하는 서비스입니다. 이 프로젝트는 사용자의 말투와 감정을 이해하여 생생한 대화를 추구합니다.
+
+## 목차
+
+1. 팀 소개
+2. 프로젝트 소개
+3. 서비스 시연
+4. 추진 배경
+5. 서비스 아키텍처
+6. 기술 세부 사항
+7. 협업 및 개선점
+
+## 1. 팀 소개
+
+- **정한샘 (팀장)**
+  - 클라우드
+  - 랭체인
+  - RAG
+  - 이미지 생성
+
+- **부팀장**
+  - 클라우드
+  - 랭체인
+  - RAG
+  - Firebase 인증
+  - 편지 작성 API
+
+- **연인지**
+  - AI모델 테스트
+  - 프론트엔드
+  - 웹디자인
+
+- **홍성혁**
+  - 웹디자인
+  - 편지 프롬프트 엔지니어링
+  - 이미지 생성
+
+- **장재영**
+  - 이미지 모델 테스트
+  - 이미지 생성
+
+- **유광중**
+  - 이미지 프롬프트 엔지니어링
+
+## 2. 프로젝트 소개
+
+**AI-DLE**는 사용자가 영화나 드라마 속 캐릭터와 편지를 주고받는 경험을 제공합니다. 이 프로젝트는 사용자의 감정을 이해하고 자연스러운 대화를 추구합니다.
+
+## 3. 서비스 시연
+
+서비스 시연에서는 사용자가 영화 캐릭터인 헤르미온느와 주고받는 편지 예시를 통해 실제 사용 환경을 보여줍니다.
+
+### 예시
+- 사용자가 헤르미온느에게 보내는 편지
+- 헤르미온느의 답장
+
+## 4. 추진 배경
+
+### 개인적 차원
+- 콘텐츠 소비층의 수요 증가
+- 개인화된 콘텐츠에 대한 욕구 증가
+
+### 사업적 동기
+- 캐릭터 IP를 활용한 AI 웹 서비스 이용률 증가
+- 글로벌 디지털 콘텐츠 시장 확대
+
+### 사회적 가치
+- 집중력 저하와 자극적인 콘텐츠 소비 문제 해결
+- 인지적 사고 기회와 정신적 휴식을 제공하는 콘텐츠 필요
+
+## 5. 서비스 아키텍처
+
+서비스 아키텍처는 AWS SQS, ComfyUI, Vector DB 등을 사용하여 구축되었습니다.
+
+### 기술 요소
+- **ComfyUI**: Stable Diffusion 모델을 모듈식 GUI로 사용 가능
+- **Face Detailer**: 인물 묘사 퀄리티 개선
+- **RAG**: 신뢰할 수 있는 외부 데이터를 참조하여 LLM 응답 생성
+
+## 6. 기술 세부 사항
+
+### 이미지 생성 기술
+- **ComfyUI**를 사용하여 이미지 생성
+- **Upscale Image**와 **Face Detailer**를 통한 이미지 퀄리티 개선
+- **Lora 모델**을 통한 용량 효율화
+
+### 편지 프롬프트 엔지니어링
+- 과거 편지 내역 참조
+- 프롬프트 토큰 최적화
+- 문맥 이해 향상 및 토큰 비용 절감
+
+### RAG 테스트 결과
+- RAG를 활용한 경우 Chat History를 정확하게 기억
+- 20장의 편지에서 3,218 토큰 절약
+
+## 7. 협업 및 개선점
+
+### 협업 방식
+- 애자일 방법론을 통해 효율적인 작업 분담
+- 칸반 보드를 통한 투명한 진행 상황 파악
+- 스크럼 회의를 통한 문제 해결
+
+### 개선점
+- 서비스 전: 영어만 지원, 캐릭터 1종, 고비용 이미지 생성 서버
+- 서비스 후: 50개국 언어 지원, 10종의 캐릭터 추가, 로컬 PC 자원 활용
+
+---
+
+이 문서는 (A)-IDLE 프로젝트의 전체 개요와 기술 세부 사항을 상세히 설명하기 위해 작성되었습니다. 이 프로젝트는 영화와 드라마 속 세계와의 소통을 가능하게 하며, 개인화된 콘텐츠 경험을 제공합니다.
