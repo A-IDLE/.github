@@ -101,7 +101,8 @@ AIDLE
 - **Face Detailer**: 인물 묘사 퀄리티 개선
 - **RAG**: 신뢰할 수 있는 외부 데이터를 참조하여 LLM 응답 생성
 
-![서비스 아키텍처](https://example.com/architecture.jpg) <!-- 서비스 아키텍처 이미지 링크는 실제로 존재하는 링크로 교체해주세요 -->
+![서비스 아키텍처](![image](https://github.com/A-IDLE/.github/assets/145536264/b3777a91-862a-4e43-9192-de9ed17a6f18)
+) <!-- 서비스 아키텍처 이미지 링크는 실제로 존재하는 링크로 교체해주세요 -->
 
 ## 6. 기술 세부 사항
 
