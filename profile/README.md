@@ -131,22 +131,8 @@ AIDLE
 - RAG를 활용한 경우 Chat History를 정확하게 기억
 - 20장의 편지에서 3,218 토큰 절약
 
-<div style="display: flex; flex-wrap: wrap;">
-    <img src="![15](https://github.com/A-IDLE/.github/assets/145536264/74bb589e-0aa3-4094-8e2f-1aff892dd3ae)
-" alt="기술 세부 사항 1" style="width: 48%; margin: 1%;">
-    <img src="![16](https://github.com/A-IDLE/.github/assets/145536264/18bf14a2-87a5-4ca7-837a-f47483c13e8c)
-" alt="기술 세부 사항 2" style="width: 48%; margin: 1%;">
-    <img src="![23](https://github.com/A-IDLE/.github/assets/145536264/abaedac9-3c40-4643-bb14-f02abc0a5b41)
-" alt="기술 세부 사항 3" style="width: 48%; margin: 1%;">
-    <img src="![24](https://github.com/A-IDLE/.github/assets/145536264/0cb980ec-6386-48bb-85c6-1b1e0a71e7f3)
-" alt="기술 세부 사항 4" style="width: 48%; margin: 1%;">
-    <img src="![26](https://github.com/A-IDLE/.github/assets/145536264/ca85abe9-8f8d-4a90-b4ef-a8bbdcb5985d)
-" alt="기술 세부 사항 5" style="width: 48%; margin: 1%;">
-    <img src="![27](https://github.com/A-IDLE/.github/assets/145536264/3ac06e18-2c74-4ddd-9381-5de19a26d088)
-" alt="기술 세부 사항 6" style="width: 48%; margin: 1%;">
-    <img src="![28](https://github.com/A-IDLE/.github/assets/145536264/08f2278f-88d7-4470-8289-ef74e76607bd)
-" alt="기술 세부 사항 7" style="width: 48%; margin: 1%;">
-</div>
+(![15](https://github.com/A-IDLE/.github/assets/145536264/02b1772a-5d4e-4194-b53e-5c176bd9e123)
+) 
 ## 7. 협업 및 개선점
 
 ### 협업 방식
