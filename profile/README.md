@@ -60,7 +60,7 @@ https://github.com/A-IDLE/.github/assets/145536264/448dbf78-4509-4c12-b170-8d0f7
 너의 가장 친한 친구로부터,
 AIDLE
 
-### 받은 편지
+### 받은 편지와 보낸편지를 기반으로 생성된 이미지
 <div style="display: flex; align-items: flex-start;">
     <img src="https://github.com/A-IDLE/.github/assets/145536264/56c72223-9303-4fa0-97ea-fc6eb4afb0e2" alt="ComfyUI_00504_" style="width: 300px; margin-right: 20px;">
     <div>
@@ -101,9 +101,8 @@ AIDLE
 - **Face Detailer**: 인물 묘사 퀄리티 개선
 - **RAG**: 신뢰할 수 있는 외부 데이터를 참조하여 LLM 응답 생성
 
-![서비스 아키텍처](![image](![(A)-IDLE 최종 발표](https://github.com/A-IDLE/.github/assets/145536264/4b2f4455-5c26-4468-8d4b-3ceb5910ef08)
-)
-) <!-- 서비스 아키텍처 이미지 링크는 실제로 존재하는 링크로 교체해주세요 -->
+(https://github.com/A-IDLE/.github/assets/145536264/4b2f4455-5c26-4468-8d4b-3ceb5910ef08)
+
 
 ## 6. 기술 세부 사항
 
