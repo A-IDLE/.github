@@ -18,7 +18,7 @@
 ## 1. 팀 소개
 
 
-| ![정한샘](https://example.com/jung.jpg) | ![유광중](https://example.com/yu.jpg) | ![연인지](![a3f2389ce63c347d-sticker](https://github.com/A-IDLE/.github/assets/145536243/30b55243-49e6-42b7-a230-a3b679801956)
+| ![정한샘](https://example.com/jung.jpg) | ![유광중](https://example.com/yu.jpg) | ![연인지]<img src="[https://github.com/A-IDLE/.github/assets/145536264/1242faf6-47ee-4ec6-a4a3-3697a1713e40](https://github.com/A-IDLE/.github/assets/145536243/30b55243-49e6-42b7-a230-a3b679801956)" alt="logo" width="300" align="right">
 ) | ![홍성혁](https://example.com/hong.jpg) | ![장재영](https://example.com/jang.jpg) |
 | --- | --- | --- | --- | --- |
 | **정한샘 (팀장)** | **유광중 (부팀장)** | **연인지** | **홍성혁** | **장재영** |
