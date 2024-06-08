@@ -18,7 +18,7 @@
 ## 1. 팀 소개
 
 
-| ![정한샘](https://example.com/jung.jpg) | ![유광중](https://example.com/yu.jpg) | ![연인지](<img src="![a3f2389ce63c347d-sticker](https://github.com/A-IDLE/.github/assets/145536243/b487876a-f1a4-4a13-ae93-c52c040bf132)") | ![홍성혁](https://example.com/hong.jpg) | ![장재영](https://example.com/jang.jpg) |
+| ![정한샘](https://example.com/jung.jpg) | ![유광중](https://example.com/yu.jpg) | ![a3f2389ce63c347d-sticker](https://github.com/A-IDLE/.github/assets/145536243/b487876a-f1a4-4a13-ae93-c52c040bf132) | ![홍성혁](https://example.com/hong.jpg) | ![장재영](https://example.com/jang.jpg) |
 | --- | --- | --- | --- | --- |
 | **정한샘 (팀장)** | **유광중 (부팀장)** | **연인지** | **홍성혁** | **장재영** |
 | 클라우드, 랭체인, RAG, 이미지 생성 | 클라우드, 랭체인, RAG, Firebase 인증, 편지 작성 API | AI모델 테스트, 프론트엔드, 웹디자인 | 웹디자인, 편지 프롬프트 엔지니어링, 이미지 생성 | 이미지 모델 테스트, 이미지 생성, 이미지 프롬프트 엔지니어링 |
